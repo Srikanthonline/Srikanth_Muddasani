@@ -1,6 +1,6 @@
 # Srikanth Muddasani
 
-**`DevOps Engineer`**
+**`Summary`**
 
 Highly motivated and enthusiastic fresh DevOps Engineer with a solid foundation in IT and a passion for streamlining software development processes. Graduated with a Bachelors in Mining and eager to contribute to a dynamic organization's success by leveraging my technical skills and dedication to continuous improvement.
 
@@ -18,29 +18,33 @@ Highly motivated and enthusiastic fresh DevOps Engineer with a solid foundation 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Nagios" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
+<img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Nexus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Sonar" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Sonar" width="30px" style="padding-right:10px;" 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<br />
 
 #
 
 **`Education`**
 
 Degree: B.Tech Mining
+
 Institution: JB Institute of Engineering & Technology
-Location: Hyderabad, India
 
+Location: Hyderabad, India.
 
-### 📊 Stats
+#
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+**`Strengths`**
+ 
+Always making sure there are clearly set aims & that the team is on the right track.
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+Able to establish influence over the team when needed and drive it toward success.
 
 #
 
