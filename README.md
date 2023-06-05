@@ -1,4 +1,4 @@
-# 🏄‍♂️ Srikanth Muddasani
+# Srikanth Muddasani
 
 **`DevOps Engineer`**
 
