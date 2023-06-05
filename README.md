@@ -29,23 +29,23 @@ Highly motivated and enthusiastic fresh DevOps Engineer with a solid foundation 
 
 **`Professional attribute`**
 
-Acquired foundational knowledge of DevOps principles and practices, including continuous integration and deployment (CI/CD), infrastructure automation, version control, and cloud computing.
+➣ Acquired foundational knowledge of DevOps principles and practices, including continuous integration and deployment (CI/CD), infrastructure automation, version control, and cloud computing.
 
-Developed proficiency in tools such as Git, Jenkins, Docker, and cloud platforms like AWS/Azure/GCP.
+➣ Developed proficiency in tools such as Git, Jenkins, Docker, and cloud platforms like AWS/Azure/GCP.
 
-Gained hands-on experience in implementing DevOps practices by collaborating with development teams to automate build, test, and deployment processes.
+➣ Gained hands-on experience in implementing DevOps practices by collaborating with development teams to automate build, test, and deployment processes.
 
-Demonstrated expertise in scripting languages (e.g., Bash, Python) for automating repetitive tasks and configuration management tools (e.g., Ansible, Chef, Puppet) for infrastructure management.
+➣ Demonstrated expertise in scripting languages (e.g., Bash, Python) for automating repetitive tasks and configuration management tools (e.g., Ansible, Chef, Puppet) for infrastructure management.
 
-Embraced a collaborative and communicative approach by effectively collaborating with cross-functional teams, including developers, operations, quality assurance, and security.
+➣ Embraced a collaborative and communicative approach by effectively collaborating with cross-functional teams, including developers, operations, quality assurance, and security.
 
-Continuously improved skills and knowledge by staying updated with the latest industry trends, attending conferences, participating in webinars and meetups, and engaging in online communities.
+➣ Continuously improved skills and knowledge by staying updated with the latest industry trends, attending conferences, participating in webinars and meetups, and engaging in online communities.
 
-Developed problem-solving and troubleshooting skills, successfully diagnosing and resolving complex issues in production environments.
+➣ Developed problem-solving and troubleshooting skills, successfully diagnosing and resolving complex issues in production environments.
 
-Proactively automated processes to enhance efficiency and productivity, optimizing workflows and reducing manual effort.
+➣ Proactively automated processes to enhance efficiency and productivity, optimizing workflows and reducing manual effort.
 
-Demonstrated a strong commitment to a culture of continuous integration and delivery, implementing automated testing, code reviews, and integration pipelines to ensure code quality and facilitate frequent, reliable releases.
+➣ Demonstrated a strong commitment to a culture of continuous integration and delivery, implementing automated testing, code reviews, and integration pipelines to ensure code quality and facilitate frequent, reliable releases.
 
 #
 
