@@ -18,7 +18,6 @@ Highly motivated and enthusiastic fresh DevOps Engineer with a solid foundation 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
@@ -67,9 +66,19 @@ Able to establish influence over the team when needed and drive it toward succes
 
 #
 
+**`Languages`**
+ 
+ English
+ 
+ Telugu
+ 
+ Hindi
+
+#
+
 <details>
  <summary><h3>👨‍💻 Srikanth's DevOps Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+   "As a fresh graduate eager to embark on a career in the ever-evolving field of DevOps, my journey began with a thirst for knowledge and a determination to make a meaningful impact. Armed with a solid foundation in DevOps Principles, I recognized the growing demand for professionals who could bridge the gap between development and operations. With an open mind and a passion for learning, I immersed myself in various resources, including online tutorials, forums, and mentorship programs. Through self-guided learning and hands-on experimentation, I gained proficiency in essential DevOps tools and technologies, such as Git, Jenkins, Docker, and Kubernetes. While navigating this exciting field as a fresher, I actively sought opportunities to contribute to open-source projects and collaborate with like-minded individuals to hone my skills. Through continuous integration and delivery, I learned the importance of automating processes and ensuring the seamless flow of code from development to production. This journey as a fresher in the DevOps realm has not only solidified my technical skills but has also nurtured a mindset of collaboration, adaptability, and continuous improvement that I carry forward with enthusiasm as I grow in this dynamic field."
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
